@@ -1,7 +1,7 @@
 /* === GLOBAL PAGE STYLE === */
 body {
   font-family: "Poppins", sans-serif;
-  background-image: url("CALCULATOR-IN-JS/IMG/deskbg.jpg");
+  background-image: url("/CALCULATOR-IN-JS/IMG/deskbg.jpg");
   background-repeat: no-repeat; 
   background-size: cover;      
   background-position: center;    
@@ -24,7 +24,7 @@ body {
 
 /*CALCULATOR*/
 .calculator {
-  background-image: url("CALCULATOR-IN-JS/IMG/calculator.png");   
+  background-image: url("/CALCULATOR-IN-JS/IMG/calculator.png");   
   padding: 28px;
   width: 340px;
   border-radius: 22px;
