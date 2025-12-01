@@ -60,7 +60,7 @@ To get a local copy of the project running on your machine, follow these steps:
 
 ---
 
-##🧑‍💻 **How to Use**
+## 🧑‍💻 **How to Use**
 
 1. Open the index.html file in your browser.
 
@@ -72,7 +72,7 @@ To get a local copy of the project running on your machine, follow these steps:
 
 ---
 
-##📸 **Preview**
+## 📸 **Preview**
 
 Here’s a preview of the calculator’s layout:
 
