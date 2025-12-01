@@ -21,8 +21,8 @@ You can view a live demo of the project here:
 
 ## 🛠️ **Technologies Used**
 
-<div class="tech-container">
-    <div class="tech-item" style="display: inline; gap: 6px; ">
+<div class="tech-container" style="display: flex; justify-content: space-evenly; flex-wrap: nowrap; margin-top: 20px;">
+    <div class="tech-item" style="display: flex;align-items: center; margin: 10px; padding: 10px; background-color: #1e1e1e; border-radius: 8px; color: white;">
         <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 icon" />
         <p><strong>HTML5</strong>: For the structure and layout of the calculator.</p>
     </div>
