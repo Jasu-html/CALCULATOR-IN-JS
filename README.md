@@ -23,9 +23,9 @@ You can view a live demo of the project here:
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> For the structure and layout of the calculator.
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> For styling and responsiveness.
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> For logic and interactivity.
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 icon"/> For the structure and layout of the calculator.
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 icon"/> For styling and responsiveness.
+<img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="JavaScript icon"/> For logic and interactivity.
 </div>
 
 
