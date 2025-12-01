@@ -53,9 +53,10 @@ To get a local copy of the project running on your machine, follow these steps:
    git clone https://github.com/yourusername/CALCULATOR-IN-JS.git
 
 2. **Navigate into the project folder:**
-    cd CALCULATOR-IN-JS
+    ```bash
+   cd CALCULATOR-IN-JS
 
-3. **Open the index.html file in your browser:**
+4. **Open the index.html file in your browser:**
     Just open the file directly in your browser to see the calculator in action.
 
 ---
