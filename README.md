@@ -21,7 +21,7 @@ You can view a live demo of the project here:
 
 ## 🛠️ **Technologies Used**
 
-<div style="display: flex; flex-wrap: wrap; padding-left: 6px;">
+<div style="display: flex; flex-wrap: wrap; padding-left: 6px; font-size: 16px">
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 icon"/> For the structure and layout of the calculator.
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 icon"/> For styling and responsiveness.
