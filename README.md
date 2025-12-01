@@ -21,23 +21,11 @@ You can view a live demo of the project here:
 
 ## 🛠️ **Technologies Used**
 
-<div class="tech-container" style="display: flex; justify-content: space-evenly; flex-wrap: nowrap; margin-top: 20px;">
-    <div class="tech-item" style="display: flex;align-items: center; margin: 10px; padding: 10px; background-color: #1e1e1e; border-radius: 8px; color: white;">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 icon" />
-        <p><strong>HTML5</strong>: For the structure and layout of the calculator.</p>
-    </div>
-    <div class="tech-item" style="display: inline; gap: 6px;">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 icon" />
-        <p><strong>CSS3</strong>: For styling and responsiveness.</p>
-    </div>
-    <div class="tech-item" style="display: inline; gap: 6px;">
-        <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="JavaScript icon" />
-        <p><strong>JavaScript</strong>: For logic and interactivity.</p>
-    </div>
-    <div class="tech-item" style="display: inline; gap: 6px;">
-        <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sound-music-and-media-flat-flat-juicy-fish.png" alt="Audio icon" />
-        <p><strong>Audio (SFX)</strong>: Sound effects triggered by button clicks.</p>
-    </div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> For the structure and layout of the calculator.
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> For styling and responsiveness.
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> For logic and interactivity.
 </div>
 
 
