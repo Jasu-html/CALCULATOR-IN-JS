@@ -50,10 +50,10 @@ To get a local copy of the project running on your machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/calculator-with-sfx.git
+   git clone https://github.com/yourusername/CALCULATOR-IN-JS.git
 
 2. **Navigate into the project folder:**
-    cd calculator-with-sfx
+    cd CALCULATOR-IN-JS
 
 3. **Open the index.html file in your browser:**
     Just open the file directly in your browser to see the calculator in action.
