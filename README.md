@@ -22,19 +22,19 @@ You can view a live demo of the project here:
 ## 🛠️ **Technologies Used**
 
 <div class="tech-container">
-    <div class="tech-item" style="display: flex; flex-wrap: wrap; gap: 6px;">
+    <div class="tech-item" style="display: inline; gap: 6px; ">
         <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 icon" />
         <p><strong>HTML5</strong>: For the structure and layout of the calculator.</p>
     </div>
-    <div class="tech-item" style="display: flex; flex-wrap: wrap; gap: 6px;">
+    <div class="tech-item" style="display: inline; gap: 6px;">
         <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 icon" />
         <p><strong>CSS3</strong>: For styling and responsiveness.</p>
     </div>
-    <div class="tech-item" style="display: flex; flex-wrap: wrap; gap: 6px;">
+    <div class="tech-item" style="display: inline; gap: 6px;">
         <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="JavaScript icon" />
         <p><strong>JavaScript</strong>: For logic and interactivity.</p>
     </div>
-    <div class="tech-item" style="display: flex; flex-wrap: wrap; gap: 6px;">
+    <div class="tech-item" style="display: inline; gap: 6px;">
         <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sound-music-and-media-flat-flat-juicy-fish.png" alt="Audio icon" />
         <p><strong>Audio (SFX)</strong>: Sound effects triggered by button clicks.</p>
     </div>
