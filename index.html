@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculator</title>
+  <link rel="stylesheet" href="CSS/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anta&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1 class="anta-regular">CALCULATOR IN JAVASCRIPT</h1>
+  </header>
+
+  <div class="calculator">
+    <input type="text" class="display" id="display" disabled>
+
+    <div class="buttons">
+
+      <button class="special" onclick="insert('%')">%</button>
+      <button class="special" onclick="squareRoot()">√</button>
+      <button class="special" onclick="clearDisplay()">C</button>
+      <button class="special" onclick="backspace()">B</button>
+
+      <button onclick="insert('7')">7</button>
+      <button onclick="insert('8')">8</button>
+      <button onclick="insert('9')">9</button>
+      <button class="op" onclick="insert('/')">÷</button>
+
+      <button onclick="insert('4')">4</button>
+      <button onclick="insert('5')">5</button>
+      <button onclick="insert('6')">6</button>
+      <button class="op" onclick="insert('*')">×</button>
+
+      <button onclick="insert('1')">1</button>
+      <button onclick="insert('2')">2</button>
+      <button onclick="insert('3')">3</button>
+      <button class="op" onclick="insert('-')">−</button>
+
+      <button onclick="insert('.')">.</button>
+      <button onclick="insert('0')">0</button>
+      <button class="eq" onclick="calculate()">=</button>
+      <button class="op" onclick="insert('+')">+</button>
+
+
+    </div>
+  </div>
+
+  <!-- Sound Effects -->
+  <audio id="sfx-click1" src="SFX/sfx-normal1.mp3" preload="auto"></audio>
+  <audio id="sfx-click2" src="SFX/sfx-normal2.mp3" preload="auto"></audio>
+  <audio id="sfx-click3" src="SFX/sfx-normal3.mp3" preload="auto"></audio>
+
+
+    <audio id="sfx-backspace" src="SFX/sfx-backspace.mp3" preload="auto"></audio>
+    <audio id="sfx-clear" src="SFX/sfx-clear.mp3" preload="auto"></audio>
+    <audio id="sfx-equals" src="SFX/sfx-equal.mp3" preload="auto"></audio>
+    <audio id="sfx-error" src="SFX/sfx-error.mp3" preload="auto"></audio>
+
+
+  <script src="JS/calculator.js"></script>
+</body>
+</html>
