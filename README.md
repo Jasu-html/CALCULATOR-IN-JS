@@ -38,7 +38,7 @@ To get a local copy of the project running on your machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CALCULATOR-IN-JS.git
+   git clone https://github.com/Jasu-html/CALCULATOR-IN-JS.git
 
 2. **Navigate into the project folder:**
     ```bash
